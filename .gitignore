@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+saida/restauradas/
+saida/paineis/*
+!saida/paineis/0017_001_GP_00100_00060_5500_N.png
+!saida/paineis/0038_002_GP_00800_00640_3200_L.png
+!saida/paineis/0036_002_GP_06400_03200_3200_N.png
